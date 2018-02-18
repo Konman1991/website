@@ -1,0 +1,37 @@
+body {
+    background-color: skyblue;
+    font-family: monospace;
+
+}
+
+h1 {
+    line-height: .01;
+    color: whitesmoke;
+    font-size: 75px;
+    text-align: center;
+    
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-style: groove;
+    border-color: whitesmoke;
+}
+
+table {
+    width: 75%;
+    text-align: center;
+    font-size: 25px;
+    border-color: whitesmoke;
+
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px
+}
+
